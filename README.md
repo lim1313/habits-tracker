@@ -1,3 +1,3 @@
 # habit-tracker react-practice
 
-https://github.com/lim1313/habits-tracker
+https://lim1313.github.io/habits-tracker/
