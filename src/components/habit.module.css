@@ -1,0 +1,29 @@
+.li {
+  list-style: none;
+  display: flex;
+  font-size: 25px;
+  margin: 10px 0;
+}
+
+.name {
+  text-transform: capitalize;
+  padding-right: 10px;
+}
+
+.button,
+.count {
+  border: none;
+  text-align: center;
+  line-height: 30px;
+  width: 30px;
+  height: 30px;
+  background-color: darkseagreen;
+  border-radius: 50%;
+  margin-right: 5px;
+  cursor: default;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: yellowgreen;
+}

@@ -1,0 +1,20 @@
+.head {
+  background-color: #ffeaa7;
+  display: flex;
+  align-items: center;
+}
+
+.headText {
+  padding: 10px;
+  font-size: 30px;
+}
+
+.num {
+  font-size: 30px;
+  background-color: cadetblue;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+}
